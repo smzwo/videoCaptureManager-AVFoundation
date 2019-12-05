@@ -1,0 +1,2 @@
+# videoCaptureManager-AVFoundation
+重新封装相机功能，依旧采用AVFoundation，提供两个回调接口，能实现Image和数据流sampleBuffer的操作，在上个版本基础上，减少了代码的冗余。
